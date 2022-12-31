@@ -5,7 +5,7 @@ bl_info = {
     "description": "Create text-block of Python code to re-create drivers of objects. Currently supports some " \
         "drivers, more support will be added when possible.",
     "author": "Dave",
-    "version": (0, 0, 2),
+    "version": (0, 1, 0),
     "blender": (2, 80, 0),
     "location": "3DView -> Tools -> Drv2Py",
     "category": "Drivers, Python",
