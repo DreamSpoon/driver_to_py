@@ -3,6 +3,10 @@
 ## Summary
 Blender addon to convert Drivers to Python code.
 
+This addon has been deprecated, and its code merged into Py Recorder addon for Blender.
+
+https://github.com/DreamSpoon/py_recorder
+
 ## Usage
 Buttons/options for using this addon are found in the 3D-View window, the Tools panel (to the right side of 3D-View window), Drv2Py tab.
 Use the checkbox list of different places of driver data to filter out unwanted drivers, if needed.
